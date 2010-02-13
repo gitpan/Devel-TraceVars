@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+lib/Devel/TraceVars.pm
+t/distribution.t
+META.yml                                 Module meta-data (added by MakeMaker)
