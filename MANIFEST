@@ -1,6 +1,7 @@
 Changes
 Makefile.PL
 MANIFEST
+README
 lib/Devel/TraceVars.pm
 t/distribution.t
 META.yml                                 Module meta-data (added by MakeMaker)
